@@ -27,4 +27,3 @@ O terminal exibirá a lista de nós percorridos e o custo total. Em seguida, uma
 ## 3. Apresentação (Vídeo)
 A explicação completa da modelagem, implementação do código, execução e discussão sobre as limitações do modelo estão disponíveis no vídeo abaixo:
 
-* **Link do YouTube:** [COLE O LINK DO SEU VÍDEO AQUI]
