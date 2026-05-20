@@ -25,5 +25,5 @@ python labirinto_astar.py
 O terminal exibirá a lista de nós percorridos e o custo total. Em seguida, uma janela gráfica se abrirá mostrando a representação visual do labirinto, com o caminho ideal destacado em verde.
 
 ## 3. Apresentação (Vídeo)
-A explicação completa da modelagem, implementação do código, execução e discussão sobre as limitações do modelo estão disponíveis no vídeo abaixo:
+A explicação da modelagem, implementação do código, execução e discussão sobre as limitações do modelo estão disponíveis no vídeo enviado ao professor
 
